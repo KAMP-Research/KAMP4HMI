@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/edu.kit.ipd.sdq.kamp4hmi.feature_1.0.0.qualifier.jar" id="edu.kit.ipd.sdq.kamp4hmi.feature" version="1.0.0.qualifier">
+      <category name="kamp4hmi_category"/>
+   </feature>
+   <category-def name="kamp4hmi_category" label="KAMP4HMI Addon"/>
+</site>

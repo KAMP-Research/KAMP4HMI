@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="edu.kit.ipd.sdq.kamp4hmi.feature"
+      label="KAMP4HMI"
+      version="1.0.0.qualifier"
+      provider-name="SDQ">
+    <plugin
+          id="edu.kit.ipd.sdq.kamp4hmi.model"
+          download-size="0"
+          install-size="0"
+          version="0.0.0"
+          unpack="false"/>
+    <plugin
+          id="edu.kit.ipd.sdq.kamp4hmi.model.edit"
+          download-size="0"
+          install-size="0"
+          version="0.0.0"
+          unpack="false"/>
+    <plugin
+          id="edu.kit.ipd.sdq.kamp4hmi.model.editor"
+          download-size="0"
+          install-size="0"
+          version="0.0.0"
+          unpack="false"/>
+    <plugin
+          id="edu.kit.ipd.sdq.kamp4hmi.model.modificationmarks"
+          download-size="0"
+          install-size="0"
+          version="0.0.0"
+          unpack="false"/>
+    <plugin
+          id="edu.kit.ipd.sdq.kamp4hmi.model.modificationmarks.edit"
+          download-size="0"
+          install-size="0"
+          version="0.0.0"
+          unpack="false"/>
+    <plugin
+          id="edu.kit.ipd.sdq.kamp4hmi.model.modificationmarks.editor"
+          download-size="0"
+          install-size="0"
+          version="0.0.0"
+          unpack="false"/>
+</feature>
